@@ -113,6 +113,7 @@
 {
     font-family: montsemibold;
     font-size: 50px;
+    color:#fff;
 
 }
 #smallname
@@ -120,6 +121,7 @@
     font-family: handwriting;
     font-size:25px;
     font-weight: bold;
+    color:#cccccc;
 }
 #section1
 {
@@ -158,6 +160,7 @@
     background:#26262A;
     position: relative;
     bottom:0;
+    height:auto;
 
 
 }
@@ -173,4 +176,40 @@
 .profimage
 {
     height:100px;
+}
+.workbox
+{
+    width:auto;
+    height:auto;
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+    border-top: 1px solid rgba(0,0,0,0.3);
+
+    /*box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.2);*/
+    text-align: center;
+}
+.downbutton-workbox
+{
+    font-family: montreg;
+    width:100px;
+    border-radius: 0px;
+    box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.1);
+    position:relative;
+    bottom:0px;
+
+}
+.boximg
+{
+
+    height:250px;
+}
+.overlay
+{
+    height: auto;
+    width: auto;
+    background:rgba(0,0,0,0.3);
+}
+.boximg-desc
+{
+    font-family: montsemibold;
+    color:grey;
 }
