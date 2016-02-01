@@ -201,6 +201,8 @@
 {
 
     height:250px;
+    -webkit-filter: grayscale(25%);
+    filter: grayscale(25%);
 }
 .overlay
 {
