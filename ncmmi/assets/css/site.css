@@ -190,3 +190,87 @@ color:#017FA5;
 {
     font-size: 21px;
 }
+.footer
+{
+    background:#26262A;
+    height:auto;
+    width:100%;
+}
+#smalleventlogo
+{
+    height:90px;
+}
+/* About Us Page Exclusive */
+
+.topsmallheader
+{
+    background:#26262A;
+    height:40px;
+}
+.topsmallheaderp{
+    margin-top: 7px;
+    color:#fff;
+    font-family: opensanslight;
+    font-weight: 700;
+}
+.tinybutton
+{
+    margin-top: 5px;
+    height:30px !important;
+    font-size: 13px;
+    font-weight: bold;
+    border-radius:2px;
+    outline: none;
+}
+#secondroweventlogo
+{
+    height:100px;
+}
+.secondrownavbar
+{
+    color:#000 !important;
+}
+.secondrownavbar a,.secondrownavbar a:visited {
+    color:#64BE75;
+    transition: all 0.5s ease-in-out;
+    text-decoration: none;
+}
+.secondrownavbar a:hover
+{
+    color:#017FA5;
+    text-decoration: none;
+}
+.aboutvitcontainer
+{
+    background:url(../images/vitmain.jpg) no-repeat center center fixed;
+    background-size:cover;
+    color:#fff;
+}
+.aboutvit
+{
+    font-family: opensanslight;
+    font-weight: bolder;
+    font-size:30px;
+}
+.aboutdesc
+{
+    font-family: opensanslight;
+    font-weight: 800;
+    text-align: left;
+}
+.overlay
+{
+    background:rgba(0,0,0,0.5);
+    width:auto;
+    height:auto;
+}
+#chancename
+{
+    font-family: opensanslight !important;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+#chancename
+{
+    font-size: 15px !important;
+}
