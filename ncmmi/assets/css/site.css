@@ -256,8 +256,10 @@ color:#017FA5;
 {
     font-family: opensanslight;
     font-weight: 800;
-    text-align: left;
+    text-align: left !important;
+    line-height: 28px;
 }
+
 .overlay
 {
     background:rgba(0,0,0,0.5);
@@ -273,4 +275,17 @@ color:#017FA5;
 #chancename
 {
     font-size: 15px !important;
+}
+.list-group-item
+{
+    border:0px;
+}
+#subhead
+{
+    font-family: "Open Sans";
+    font-size:35px;
+}
+.list-group-item
+{
+    background:transparent;
 }
