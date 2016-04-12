@@ -289,3 +289,14 @@ color:#017FA5;
 {
     background:transparent;
 }
+.datetimevenue
+{
+    font-size:30px;
+    color:#fff;
+    font-family: opensanslight;
+}
+.bold-text
+{
+    font-weight: bold !important;
+    text-decoration: underline;
+}
