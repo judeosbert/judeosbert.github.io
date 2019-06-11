@@ -1,0 +1,12 @@
+# Experience template
+- layout: left
+  company: Tata Digital Health
+  link: https://www.tatahealth.com/
+  job_title: Android Developer (Programmer)
+  dates: Aug 2018 - Present
+  quote: >
+   The company believes in unlocking life’s potential with better health by your side. Your partner in the journey towards good health, walking that extra mile to ensure you’ve access to convenient and comprehensive healthcare.
+
+  description: | # this will include new lines to allow paragraphs
+    Entrusted with major responsibilites and owenership of modules that are core to the app.
+    Introduced changes in the technology stack.

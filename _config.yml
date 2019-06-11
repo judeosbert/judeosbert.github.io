@@ -1,0 +1,67 @@
+# Site
+repository: judeosbert/judeosbert.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Jude Osbert K
+title: Android Developer
+email: judeosby@gmail.com
+phone: +91[9380811621,8113909239]
+website: judeosbert.github.io
+
+# Social links
+github_username:  judeosbert
+linkedin_username: judeosbert
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/njan.jpg
+about_content: | # this will include new lines to allow paragraphs
+  A very passionate android developer with a keen eye for User Experience and UI Design.
+  Graduated from  Vellore Institute of Technology (VIT University) in B-Tech Computer Science and Engineering.
+  My key skill areas are Android,Kotlin,Java. <br>
+  I currently work at Tata Digital Health, Banglore,India<br>
+  <button href="" style="background:#333;padding:5">View My Resume</button>
+
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  Currently I am looking for a new opportunity and is open to offers. 
+  Please get in contact If I seem to be a good fit for the position at your company. 
+  I would love to have a discussion with you  🤝😁
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
