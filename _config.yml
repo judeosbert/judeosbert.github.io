@@ -18,11 +18,10 @@ linkedin_username: judeosbertk
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/njan.jpg
 about_content: | # this will include new lines to allow paragraphs
-  A very passionate android developer with a keen eye for User Experience and UI Design.
+  Senior Android Developer with 5+ years of experience. Part Time Indie Hacker.
   Graduated from  Vellore Institute of Technology (VIT University) in B-Tech Computer Science and Engineering.
-  My key skill areas are <mark>Android</mark> , <mark>Kotlin</mark> and <mark>Java</mark>. <br>
-  I currently work at Tata Digital Health, Banglore,India<br><br />
-  <a target="_blank" href="https://drive.google.com/file/d/1PpMv5WqTVOeoR8nf6F3DEIrBdrczWJts/view?usp=sharing"><button  style="background:#333;padding:5">View My Resume</button></a>
+  My key skill areas are <mark>Android</mark> , <mark>Kotlin</mark> and <mark>Java</mark>. I also have experience in <mark>React Js</mark>, <mark>NextJs</mark> and <mark>Tailwind CSS</mark> <br>
+  <a target="_blank" href="https://docs.google.com/document/d/1SUxFLsw24bXxB2fHiS7hObB_nQTkSjFtg2NLfY7JJqA/edit?usp=sharing"><button  style="background:#333;padding:5">View My Resume</button></a>
 
 
 # Projects Section

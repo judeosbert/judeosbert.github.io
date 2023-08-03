@@ -1,9 +1,31 @@
 # Experience template
 - layout: left
+  company: GreedyGame Media Pvt Ltd
+  link: https://www.greedygame.com/
+  jobs:
+    - title: Senior Software Engineer
+      dates: November 2020 - Present
+    - title: Software Engineer
+      dates: November 2019 - May 2021
+  dates: Nov 2019 - Present
+  quote: >
+    GreedyGame helps app publishers scale their app using SDK to optimise ad monetisations, increase ad revenue and improve user experience. They also provide marketing strategies to help app publishers reach their target audience.
+
+  description: | # this will include new lines to allow paragraphs
+   In charge of building an ad monetisation SDK from ground up which optimizes  ad delivery and increases ad revenue.  Solo developer with hands on integration support and ad optimisations.
+   Acquired a deep understanding of the Android Framework, lifecycle to build and support multiple brands and a variety of configurations..
+   Hands on  and collaborative data analysis to confirm hypotheses to optimize ad configuration.
+   Introduced TDD based development in the team. 
+   Built an online version of Pictionary using websocket connections. Used MVVM architecture ,Koin,Retrofit and Websockets.
+   Hands-on experience in GoLang to build the game engine of Pictionary app.
+   Conducted interviews to hire new team members and interns. Also responsible for mentoring  juniors.
+   Worked closely with the HR team to filter candidate profiles faster without losing development time.
+   
+- layout: left
   company: Tata Digital Health
   link: https://www.tatahealth.com/
   job_title: Android Developer (Programmer)
-  dates: Aug 2018 - Present
+  dates: Aug 2018 - Oct 2019
   quote: >
    The company believes in unlocking life’s potential with better health by your side. Your partner in the journey towards good health, walking that extra mile to ensure you’ve access to convenient and comprehensive healthcare.
 
