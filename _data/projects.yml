@@ -7,3 +7,13 @@
     Onsheets.io helps you build REST APIs using Google Sheets. It is a no-code platform that helps you build APIs in minutes.
   description: | # this will include new lines to allow paragraphs
     Onsheets.io is a no-code platform that helps you build REST APIs without you having to deploy PostgresSQL or database. 
+    
+- layout: top-middle
+  name: HappyPeers.work
+  link: https://happypeers.work
+  #github: 
+  quote: >
+    Anonymous peer feedback to improve your workspace
+  description: | # this will include new lines to allow paragraphs
+    HappyPeers is an innovative feedback system for your organisation that encourages people to speak up by maintaining anonymity, identify points of improvement for individuals and organisation for a happier workspace.
+    
